@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi martin!!!  
+i like node js.it is very intresting
